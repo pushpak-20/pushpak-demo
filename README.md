@@ -1,4 +1,4 @@
 # pushpak-demo
 This is my first git repository
 <br>
-Author - pushpak bharambe
+Author - pushpak (demo)
